@@ -12,4 +12,6 @@ Adding age bot to the channel.
 <img width="500" alt="@age-bot" src="https://github.com/Vikhyath01K/go-slack-age-bot/assets/87747931/7e641766-18cc-4408-9cd2-dea7e6a9c46e">
 
 <img width="500" alt="Calculated" src="https://github.com/Vikhyath01K/go-slack-age-bot/assets/87747931/bc31d46d-d7f0-443b-bb94-27662db73f5d">
+
+
 Calculating the age of the user.
